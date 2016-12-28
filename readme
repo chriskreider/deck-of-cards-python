@@ -5,5 +5,12 @@ Notes: This is a sample python program that I wrote to demonstrate Object Orient
 
 The programs use classes I created for Cards, Decks of Cards and Players to deal cards to players and then make an asessment about who won.
 
+To play the game, run any of the files in the directory "Card Games"
+
+My favorite classes are under the directory "Cards"
+	- CardDeck.py - creates a collection of 52 Card Objects, along with shuffle methods, etc
+	- Card.py - stores information about a single card, as well as custom comparsion operation __gt__(self) that enables simple comparisons
+
+
 ###############################################################################
 
