@@ -9,7 +9,7 @@ To play the game, run any of the files in the directory "Card Games"
 
 My favorite classes are under the directory "Cards"
 	- CardDeck.py - creates a collection of 52 Card Objects, along with shuffle methods, etc
-	- Card.py - stores information about a single card, as well as custom comparsion operation __gt__(self) that enables simple comparisons
+	- Card.py - stores information about a single card, as well as custom comparsion operation __gt__(self, compare_to) that enables simple comparisons
 
 
 ###############################################################################
