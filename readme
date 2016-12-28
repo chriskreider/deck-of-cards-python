@@ -1,5 +1,9 @@
 ###############################################################################
-This is a sample python program that I wrote to demonstrate Object Oriented (OO) concepts that is capable of playing simple card games.  To play the simple game, run one of the programs under the package CardGames.
+Repository:deck-of-cards-python
+Author   : Chris Kreider
+Notes: This is a sample python program that I wrote to demonstrate Object Oriented (OO) concepts that is capable of playing simple card games.  To play the simple game, run one of the programs under the package CardGames.
 
 The programs use classes I created for Cards, Decks of Cards and Players to deal cards to players and then make an asessment about who won.
+
+###############################################################################
 
