@@ -21,12 +21,12 @@ class CardGame(object):
 
 
 	#------------------------------------------------------------------------------
-	# method:__init__
-	# params:
-	#   self:
+    # method:__init__
+    # params:
+    #   self:
     #   name_of_game: what is the name of the underlying card game that this class
     #                 is holding information about?
-	# notes : initializes features of a basic card game
+    # notes : initializes features of a basic card game
 	# -----------------------------------------------------------------------------
     def __init__(self, name_of_game=""):
         #add a deck of cards
